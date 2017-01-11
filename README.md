@@ -5,4 +5,4 @@ This application generates line charts that show how frequently your entered key
 
 
 This application uses an expressJS server, the live Twitter Streaming Filter API, websockets via socket.io to stream the cleaned and processed data from the server to the client, react to handle the UX, Highcharts to build the charts, and is deployed on AWS.
-* 
+ 
